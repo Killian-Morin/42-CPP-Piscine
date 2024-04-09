@@ -1,9 +1,7 @@
 
 <a name="readme-top"></a>
 
-
-<!-- PROJECT LOGO -->
-<br/>
+<!-- PROJECT SUMMARY -->
 <div align="center">
 	<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="Logo" width="" height="80">
 
@@ -13,7 +11,7 @@
     Summary:
 The goal of this Piscine is to introcude ourselves to Object-Oriented Programming through a syntax that we already know, the C syntax.
 Throughout those modules we were limited to follow the C++98 standard. This helped limiting the amount of things we learned for the moment while still discovering the essential about OOP.
-  <br/>
+  <br>
   </p>
 </div>
 
